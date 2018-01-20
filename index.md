@@ -4,7 +4,7 @@ layout: default
 
 # arcelle.com
 
-### I'm a _digital thought leader_ with a passion for _revolutionizing the human condition_
+### _This is a temporary parking page for arcelle.com_ Check back from time to time to see updates to the site.
 
 Bacon ipsum dolor amet salami leberkas pig short loin porchetta frankfurter cupim
 drumstick meatball tongue alcatra. Turkey [prosciutto capicola](#) alcatra corned beef.
