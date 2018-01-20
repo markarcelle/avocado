@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# joe cool
+# arcelle.com
 
 ### I'm a _digital thought leader_ with a passion for _revolutionizing the human condition_
 
